@@ -11,3 +11,7 @@ thi was only tested with MacOS 14 please use carefully
 3-boot into the usb drive and follow the instructions (*this is going to take about 1-2 hours*)
 
 4-for the rest go to youtube :)
+
+#Working drivers
+
+All drivers are working except: dGPU, HDMI, WIFI. + added support for Android USB Tethering
