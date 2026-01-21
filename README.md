@@ -1,8 +1,8 @@
-#USE ONLY WITH MACOS 14!!!!
+# USE ONLY WITH MACOS 14!!!!
 
-thi was only tested with MacOS 14 please use carefully
+this was only tested with MacOS 14 please use carefully
 
-##Usage
+## Usage
 
 1-download the EFI file and copy it to your USB drive with the macos recovery image
 
@@ -12,6 +12,6 @@ thi was only tested with MacOS 14 please use carefully
 
 4-for the rest go to youtube :)
 
-#Working drivers
+# Working drivers
 
 All drivers are working except: dGPU, HDMI, WIFI. + added support for Android USB Tethering
